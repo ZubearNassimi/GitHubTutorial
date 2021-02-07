@@ -48,7 +48,12 @@ public class GitHubTutorial {
                 code or a branch of the code. double click on master and click on checkout. now you have switched back
                 to master code.
         
-        This is a Test Branch. refer to Master Code to full instructions.
+        step 10. When you are done with the Branch tag, you can merge it with the Master Code. To do so, make sure you
+                 are sitting on Master code. then right click on project, go to Git, got to branch/tag, click on Merge 
+                 revision. choose branch under Local folder. then on right side choose upper option (latest version).
+                 click on select. then click merge.
+                 You can now delete Branch. make sure you are sitting on Master code. in Git repository browser, right
+                 click on local Branch and select delete.
                 
         */
     
