@@ -36,6 +36,7 @@ public class GitHubTutorial {
                 click next. click to check to Master button and click next. and then click Finish. click yes for prompt
                 window.
         step 7. To PULL - right click on project, under git, under remote, click on PULL. then click Finish.
+        step 8. To Fetch and Merge - 
                 
         */
     
