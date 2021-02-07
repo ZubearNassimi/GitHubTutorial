@@ -35,6 +35,7 @@ public class GitHubTutorial {
                 on PUSH. under Repository URL paste the URL you copied. below enter your github username and password.
                 click next. click to check to Master button and click next. and then click Finish. click yes for prompt
                 window.
+        step 7. 
                 
         */
     
