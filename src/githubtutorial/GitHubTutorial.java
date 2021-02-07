@@ -30,6 +30,12 @@ public class GitHubTutorial {
         step 5. right click on project, go to Git, click on Commit. enter message if you wish then click
                 commit again.
                 if you make any changes to the code. remember to Commit after saving file.
+        step 6. Go to GitHub website. click on make New Repository. name it. and click create.
+                copy url address. go back to netbeans. right click on project, go to Git, go to Remote, click
+                on PUSH. under Repository URL paste the URL you copied. below enter your github username and password.
+                click next. click to check to Master button and click next. and then click Finish. click yes for prompt
+                window.
+                
         */
     
     }
