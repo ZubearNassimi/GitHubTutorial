@@ -44,9 +44,11 @@ public class GitHubTutorial {
                 select it and click select.
         step 9. To Branch - right click on project, under git, under branch/tag, then click on Create Branch. Name your
                 Branch. then Click Create. Now work on the branch and make changes. save and commit when done.
-                Go to Git Repository Browser. you can see from the diamond icon whether you are working on the master
+                Go to Git Repository Browser. you can see from the yellow diamond icon whether you are working on the master
                 code or a branch of the code. double click on master and click on checkout. now you have switched back
                 to master code.
+        
+        This is a Test Branch. refer to Master Code to full instructions.
                 
         */
     
