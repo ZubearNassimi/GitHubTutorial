@@ -27,7 +27,9 @@ public class GitHubTutorial {
                 file .gitignore
                 Now go to browser and navigate to gitignore.io (toptal.com), type netbeans in search bar.
                 Click on Create. copy the content and paste it into the .gitignore file created and SAVE.
-        step 5. right click on project, go to Git, click on Commit.
+        step 5. right click on project, go to Git, click on Commit. enter message if you wish then click
+                commit again.
+                if you make any changes to the code. remember to Commit after saving file.
         */
     
     }
