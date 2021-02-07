@@ -1,0 +1,35 @@
+package githubtutorial;
+
+/**
+ * This class +++Insert Description Here+++
+ *
+ * @author Zubear Nassimi
+ */
+public class GitHubTutorial {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) 
+    {
+        /*Learning gitHUb Local repository,commit and push
+        
+        step 1. right click on project, go to versioning, click on initialize Git Repository, 
+                dont change location, click OK.
+        step 2. right click on project, go to Git, under Repository, click on Repository Browser.
+        step 3. right click on project, go to Git, under Repository, click on Open Global Configuration.
+                type:   [user]
+                        name = GitHub username
+                        email = GitHub email (sheridan email)
+                Now save the changes
+        step 4. right click on project, click on Other, under Categories scroll down and click on Other again,
+                then under File types on the right, scroll down and select Emptry File. Click next. name the
+                file .gitignore
+                Now go to browser and navigate to gitignore.io (toptal.com), type netbeans in search bar.
+                Click on Create. copy the content and paste it into the .gitignore file created and SAVE.
+        step 5. right click on project, go to Git, click on Commit.
+        */
+    
+    }
+
+}
